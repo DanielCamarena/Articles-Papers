@@ -1,4 +1,4 @@
-# Escritos-Papers
+# Escritos-Documents
 Investigación y divulgación -  Research and communication
 
 - Daniel Camarena (2017). Una breve introducción a la simulación.  Monografía de Prácticas Pre-Profesionales, [Universidad Nacional de Ingeniería](https://fc.uni.edu.pe/escuela-profesional-de-matematica/). ([mon_2017-I](https://github.com/DanielCamarena/Escritos-Papers)).
